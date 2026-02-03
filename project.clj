@@ -1,4 +1,4 @@
-(defproject com.ardoq/saml20-clj "2.1.0"
+(defproject io.github.slipset/saml20-clj "2.1.1"
   :description "Improved SAML 2.0 library for SSO."
   :url "https://github.com/metabase/saml20-clj"
   :min-lein-version "2.5.0"
